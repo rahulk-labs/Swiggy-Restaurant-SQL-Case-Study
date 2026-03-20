@@ -1,5 +1,7 @@
 # Swiggy Restaurant SQL Case Study
 
+![Swiggy SQL Case Study](Swiggy-Case-Study.jpg)
+
 ## 📌 Project Overview
 Analyzed Swiggy restaurant dataset using SQL to uncover insights on ratings, pricing, cuisine distribution, and restaurant trends.
 
