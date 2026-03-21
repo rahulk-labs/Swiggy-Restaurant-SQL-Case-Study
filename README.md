@@ -39,6 +39,7 @@ Analyzed Swiggy restaurant dataset using SQL to uncover insights on ratings, pri
 
 ## 📂 Files Included
 - swiggy_case_study.sql → SQL queries used for analysis
+- swiggy_data.csv → Dataset
 
 ## 🚀 Conclusion
 This project demonstrates strong SQL skills including data aggregation, filtering, grouping, and deriving meaningful business insights from raw data.
