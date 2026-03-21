@@ -1,0 +1,501 @@
+restaurant_name,city,cuisine,rating,menu_category,price,cost_per_person,veg_or_nonveg
+Tandoori Flames,Mumbai,Thai,3,Recommended,1619,251,Veg
+Tasty Tales,Chandigarh,Japanese,4.3,Salads,721,841,Veg
+Gourmet Paradise,Pune,Japanese,4.6,Salads,581,546,Veg
+Tandoori Flames,Delhi,Thai,3.1,Main Course,401,242,Non-veg
+Tandoori Flames,Jaipur,Indian,3.6,Main Course,1078,362,Non-veg
+Pizzeria Express,Bangalore,Japanese,4.9,Desserts,1243,1520,Non-veg
+Curry Kingdom,Delhi,French,4.8,Beverages,279,811,Veg
+Sushi World,Pune,Korean,4.2,Soups,1435,562,Veg
+Gourmet Paradise,Delhi,Italian,4.2,Desserts,743,1892,Non-veg
+Curry Kingdom,Bangalore,Korean,4.5,Desserts,829,1662,Non-veg
+Sizzling Spoons,Kolkata,Chinese,4.8,Recommended,309,957,Veg
+Curry Kingdom,Mumbai,French,3.7,Soups,1103,1022,Veg
+Sizzling Spoons,Chandigarh,Mexican,3.1,Recommended,1382,732,Non-veg
+Tasty Tales,Jaipur,Chinese,4.2,Fast Food,1197,199,Veg
+Pizzeria Express,Jaipur,French,4.5,Soups,496,279,Veg
+Spice Delight,Delhi,Thai,3.6,Salads,1477,1638,Veg
+Food Haven,Ahmedabad,French,4.4,Fast Food,339,1711,Non-veg
+Sizzling Spoons,Hyderabad,Korean,4.8,Fast Food,532,289,Veg
+Sizzling Spoons,Ahmedabad,French,3.3,Soups,1472,793,Non-veg
+Spice Delight,Delhi,Chinese,3.8,Desserts,1466,319,Non-veg
+Pizzeria Express,Pune,French,4.8,Soups,123,950,Non-veg
+Food Haven,Chandigarh,Indian,3.2,Appetizers,1760,1074,Non-veg
+Street Treats,Chandigarh,American,4.9,Soups,952,591,Non-veg
+Street Treats,Hyderabad,Japanese,3.5,Beverages,611,1222,Non-veg
+Tandoori Flames,Delhi,Italian,4.6,Fast Food,1450,706,Veg
+Royal Dine,Ahmedabad,Japanese,3.8,Desserts,527,632,Veg
+Food Haven,Hyderabad,Japanese,3.6,Appetizers,1153,1786,Veg
+Pizzeria Express,Hyderabad,Italian,3.7,Soups,761,1727,Veg
+Curry Kingdom,Ahmedabad,Italian,4.2,Main Course,232,1948,Veg
+Street Treats,Hyderabad,French,4.6,Desserts,175,1995,Veg
+Street Treats,Ahmedabad,Korean,4.8,Salads,985,603,Non-veg
+Sizzling Spoons,Ahmedabad,Mexican,4.3,Soups,329,377,Veg
+Pizzeria Express,Delhi,Japanese,4.9,Desserts,1653,1894,Non-veg
+Street Treats,Hyderabad,American,3.8,Main Course,1751,1192,Non-veg
+Tandoori Flames,Delhi,French,3.6,Main Course,153,1589,Non-veg
+Food Haven,Jaipur,American,3.9,Soups,1112,1004,Veg
+Tasty Tales,Chandigarh,American,3.9,Beverages,583,992,Veg
+Pizzeria Express,Pune,Chinese,3.8,Salads,1482,466,Veg
+Tasty Tales,Delhi,Italian,4.2,Fast Food,329,1291,Veg
+Royal Dine,Pune,Italian,4.6,Fast Food,688,1169,Non-veg
+Sushi World,Ahmedabad,Indian,3.9,Recommended,352,1655,Veg
+Street Treats,Pune,Thai,4.4,Soups,1496,1098,Veg
+Food Haven,Pune,Italian,3.7,Main Course,1648,212,Veg
+Curry Kingdom,Delhi,Japanese,4,Appetizers,1441,739,Veg
+Spice Delight,Chandigarh,Indian,4.8,Appetizers,1566,1207,Non-veg
+Tasty Tales,Kolkata,Chinese,3.8,Fast Food,764,948,Veg
+Food Haven,Kolkata,Mediterranean,4.8,Appetizers,902,623,Non-veg
+Tasty Tales,Bangalore,Mexican,3.1,Fast Food,1506,1750,Veg
+Spice Delight,Chennai,Mediterranean,4,Salads,1817,1729,Veg
+Gourmet Paradise,Jaipur,Thai,3.4,Appetizers,1204,1223,Non-veg
+Food Haven,Mumbai,Italian,4.1,Soups,1688,361,Non-veg
+Sushi World,Ahmedabad,French,3.4,Beverages,727,284,Non-veg
+Street Treats,Mumbai,Korean,3.5,Salads,1169,293,Non-veg
+Spice Delight,Chennai,Chinese,3.5,Salads,904,1927,Veg
+Royal Dine,Jaipur,Japanese,4.9,Beverages,1165,1216,Non-veg
+Royal Dine,Bangalore,American,3.5,Main Course,818,900,Non-veg
+Royal Dine,Ahmedabad,Mediterranean,4.9,Salads,1113,845,Non-veg
+Sizzling Spoons,Chennai,French,3,Salads,377,1757,Non-veg
+Urban Bites,Jaipur,Mexican,4.3,Appetizers,458,217,Non-veg
+Tasty Tales,Bangalore,Chinese,4.1,Fast Food,521,1765,Veg
+Curry Kingdom,Ahmedabad,French,4.7,Recommended,1230,748,Non-veg
+Food Haven,Chandigarh,Indian,4.2,Beverages,1088,970,Veg
+Sushi World,Pune,Indian,3.6,Fast Food,934,215,Veg
+Sizzling Spoons,Hyderabad,French,5,Fast Food,1424,1146,Non-veg
+Street Treats,Kolkata,Mediterranean,4,Main Course,819,1726,Non-veg
+Spice Delight,Jaipur,Korean,3.1,Appetizers,1693,861,Veg
+Spice Delight,Delhi,Korean,3.4,Soups,681,1348,Veg
+Food Haven,Mumbai,American,4.4,Salads,1395,355,Non-veg
+Spice Delight,Mumbai,Korean,4.2,Recommended,1988,675,Veg
+Curry Kingdom,Kolkata,Japanese,4.1,Appetizers,1925,374,Veg
+Gourmet Paradise,Mumbai,Mexican,3.5,Salads,1487,546,Veg
+Sushi World,Hyderabad,American,3.1,Beverages,1285,1215,Non-veg
+Curry Kingdom,Ahmedabad,Thai,4.5,Recommended,586,872,Non-veg
+Pizzeria Express,Hyderabad,Thai,4.9,Salads,1636,275,Non-veg
+Spice Delight,Delhi,Mediterranean,4.8,Recommended,421,965,Veg
+Sizzling Spoons,Jaipur,American,3.7,Desserts,922,374,Non-veg
+Spice Delight,Chandigarh,American,3.2,Beverages,1271,1247,Veg
+Street Treats,Chennai,Japanese,3.4,Fast Food,632,425,Non-veg
+Spice Delight,Delhi,Mexican,3.2,Salads,1120,957,Non-veg
+Urban Bites,Pune,American,4.8,Fast Food,1138,839,Veg
+Curry Kingdom,Pune,Thai,3.5,Salads,125,1600,Veg
+Pizzeria Express,Chandigarh,Thai,3.8,Beverages,701,1557,Non-veg
+Royal Dine,Jaipur,Indian,4.4,Soups,964,532,Non-veg
+Street Treats,Kolkata,Korean,3.5,Desserts,842,1853,Veg
+Pizzeria Express,Kolkata,Italian,3.7,Fast Food,1551,1400,Non-veg
+Pizzeria Express,Pune,Mediterranean,3.9,Soups,1738,158,Veg
+Pizzeria Express,Jaipur,American,4,Desserts,1669,1009,Non-veg
+Royal Dine,Pune,French,3,Soups,1364,367,Non-veg
+Spice Delight,Bangalore,Mexican,4.4,Appetizers,1646,1932,Non-veg
+Food Haven,Chennai,Mediterranean,3.2,Soups,308,1866,Veg
+Sizzling Spoons,Hyderabad,Thai,3.9,Desserts,1192,1937,Non-veg
+Tandoori Flames,Chennai,French,4.6,Main Course,603,1532,Veg
+Urban Bites,Mumbai,American,3.7,Desserts,734,1321,Non-veg
+Sizzling Spoons,Chandigarh,Chinese,3.7,Fast Food,1212,1505,Non-veg
+Sushi World,Jaipur,Thai,4.9,Main Course,185,900,Veg
+Sushi World,Hyderabad,French,3.3,Desserts,1813,1266,Non-veg
+Pizzeria Express,Bangalore,French,4.7,Salads,1967,183,Veg
+Tandoori Flames,Chandigarh,Indian,3.3,Recommended,108,1481,Veg
+Sushi World,Ahmedabad,Mexican,3,Salads,1529,207,Veg
+Tasty Tales,Jaipur,Italian,3.3,Main Course,1584,882,Non-veg
+Sizzling Spoons,Chennai,Thai,3.9,Soups,1014,1429,Veg
+Spice Delight,Kolkata,Italian,3.6,Salads,325,680,Veg
+Food Haven,Chennai,American,3.4,Main Course,630,836,Non-veg
+Tandoori Flames,Chennai,Japanese,4.1,Recommended,488,396,Veg
+Food Haven,Delhi,Indian,3.2,Beverages,1791,510,Non-veg
+Spice Delight,Delhi,American,3.5,Main Course,1396,768,Veg
+Tasty Tales,Delhi,American,4.5,Salads,585,636,Veg
+Food Haven,Ahmedabad,French,3.2,Soups,864,1451,Veg
+Spice Delight,Delhi,Chinese,4.2,Appetizers,228,1944,Veg
+Sushi World,Kolkata,Mediterranean,4.7,Salads,834,1923,Veg
+Urban Bites,Chennai,Japanese,4.6,Soups,1803,1940,Veg
+Sizzling Spoons,Bangalore,Chinese,3.3,Fast Food,1307,1588,Veg
+Food Haven,Chennai,Indian,4.1,Recommended,1672,1827,Non-veg
+Gourmet Paradise,Pune,Italian,3.6,Main Course,661,1830,Non-veg
+Sushi World,Bangalore,French,3.2,Salads,1870,1217,Veg
+Tasty Tales,Chandigarh,Indian,4.2,Beverages,1921,1179,Non-veg
+Gourmet Paradise,Pune,American,3,Recommended,1766,1309,Non-veg
+Sushi World,Chandigarh,Mediterranean,4.7,Main Course,949,1684,Non-veg
+Gourmet Paradise,Pune,Indian,3.9,Desserts,937,1109,Non-veg
+Curry Kingdom,Jaipur,Japanese,3.1,Appetizers,579,747,Veg
+Sizzling Spoons,Pune,Italian,3.8,Recommended,1745,828,Veg
+Curry Kingdom,Pune,American,3.2,Soups,1689,374,Veg
+Food Haven,Pune,Indian,3.8,Soups,272,449,Non-veg
+Curry Kingdom,Jaipur,Italian,3.8,Desserts,800,1271,Veg
+Sizzling Spoons,Hyderabad,French,4.6,Salads,1992,1937,Non-veg
+Pizzeria Express,Jaipur,Mediterranean,3.1,Main Course,667,1890,Non-veg
+Pizzeria Express,Ahmedabad,Thai,3.4,Fast Food,237,1294,Non-veg
+Sushi World,Delhi,American,3.3,Main Course,1772,319,Non-veg
+Curry Kingdom,Delhi,Italian,4.1,Beverages,1552,209,Non-veg
+Urban Bites,Bangalore,Korean,3.1,Recommended,1348,1139,Non-veg
+Pizzeria Express,Ahmedabad,Mexican,3.8,Beverages,676,1535,Non-veg
+Curry Kingdom,Chandigarh,Indian,3.3,Fast Food,1185,1770,Veg
+Tandoori Flames,Chennai,Thai,3.3,Soups,1229,697,Non-veg
+Sushi World,Jaipur,Korean,3.1,Recommended,708,1349,Non-veg
+Urban Bites,Kolkata,Mexican,3.3,Salads,1615,1726,Non-veg
+Curry Kingdom,Delhi,American,3.2,Main Course,1158,1748,Veg
+Street Treats,Hyderabad,Chinese,3.1,Soups,1942,562,Veg
+Street Treats,Ahmedabad,Korean,4,Appetizers,161,1041,Non-veg
+Sizzling Spoons,Jaipur,Thai,4.2,Main Course,735,1565,Non-veg
+Tasty Tales,Delhi,Indian,3.7,Main Course,1786,439,Non-veg
+Sizzling Spoons,Chandigarh,Mexican,4.1,Appetizers,937,1835,Veg
+Sushi World,Mumbai,Korean,3.4,Desserts,1792,395,Non-veg
+Pizzeria Express,Hyderabad,Indian,3.2,Appetizers,1078,1518,Non-veg
+Urban Bites,Jaipur,Mediterranean,3.2,Salads,274,1082,Veg
+Spice Delight,Kolkata,Korean,3.7,Appetizers,1200,477,Veg
+Food Haven,Chandigarh,Italian,4.8,Main Course,1587,1550,Non-veg
+Tasty Tales,Ahmedabad,Korean,3.5,Salads,856,1177,Veg
+Pizzeria Express,Mumbai,American,4.8,Fast Food,467,464,Non-veg
+Tandoori Flames,Bangalore,Korean,3.8,Beverages,730,1032,Non-veg
+Urban Bites,Delhi,Japanese,3.7,Appetizers,1616,671,Veg
+Curry Kingdom,Jaipur,Japanese,4.5,Fast Food,1399,1751,Non-veg
+Royal Dine,Chandigarh,French,4.4,Soups,1543,832,Veg
+Street Treats,Kolkata,Mediterranean,4.9,Fast Food,1282,1233,Veg
+Curry Kingdom,Bangalore,Mediterranean,3.2,Desserts,733,623,Non-veg
+Food Haven,Delhi,American,3.9,Soups,1587,1803,Veg
+Gourmet Paradise,Chennai,Chinese,4.6,Appetizers,1914,819,Non-veg
+Sushi World,Hyderabad,French,3.5,Fast Food,422,685,Non-veg
+Curry Kingdom,Bangalore,Mexican,4.7,Main Course,1558,286,Veg
+Gourmet Paradise,Jaipur,Thai,3.2,Appetizers,486,1964,Veg
+Urban Bites,Hyderabad,Italian,4.1,Salads,914,410,Non-veg
+Sizzling Spoons,Chennai,American,4.3,Recommended,1937,537,Veg
+Gourmet Paradise,Pune,Italian,4.3,Salads,112,204,Non-veg
+Gourmet Paradise,Chandigarh,Indian,3.5,Salads,1104,1813,Veg
+Food Haven,Ahmedabad,Italian,3.7,Salads,525,1616,Non-veg
+Spice Delight,Bangalore,Chinese,4.4,Salads,1520,903,Non-veg
+Urban Bites,Bangalore,Korean,4.5,Soups,1923,942,Non-veg
+Spice Delight,Hyderabad,French,4.8,Appetizers,432,519,Veg
+Sushi World,Mumbai,American,3.6,Main Course,1828,679,Veg
+Urban Bites,Chennai,Indian,4.6,Appetizers,310,1931,Veg
+Urban Bites,Ahmedabad,Korean,3.9,Salads,305,1479,Non-veg
+Royal Dine,Pune,Chinese,3.3,Soups,308,1096,Veg
+Gourmet Paradise,Kolkata,French,3.6,Beverages,1436,1036,Veg
+Pizzeria Express,Chennai,Mediterranean,4.7,Recommended,1000,1584,Veg
+Pizzeria Express,Ahmedabad,Italian,3.4,Fast Food,598,949,Veg
+Tasty Tales,Jaipur,French,3.1,Salads,885,853,Non-veg
+Tasty Tales,Hyderabad,Mediterranean,3.3,Beverages,784,1664,Veg
+Food Haven,Delhi,Korean,3.8,Salads,990,288,Non-veg
+Sushi World,Pune,Thai,3.1,Fast Food,1876,1569,Veg
+Sizzling Spoons,Hyderabad,Mexican,4.2,Beverages,212,172,Veg
+Street Treats,Pune,French,3.7,Soups,954,1246,Non-veg
+Tandoori Flames,Jaipur,American,3.8,Appetizers,1251,1167,Non-veg
+Food Haven,Delhi,Thai,3.5,Salads,926,1384,Veg
+Tandoori Flames,Kolkata,Korean,3.1,Beverages,1417,804,Non-veg
+Food Haven,Ahmedabad,American,4.2,Beverages,280,628,Non-veg
+Street Treats,Jaipur,Mediterranean,4.4,Appetizers,210,1701,Non-veg
+Sushi World,Chennai,American,4.6,Main Course,1322,1247,Non-veg
+Spice Delight,Jaipur,Japanese,3.6,Fast Food,1451,207,Veg
+Tandoori Flames,Bangalore,Mexican,4.3,Fast Food,225,1846,Veg
+Spice Delight,Delhi,Italian,3.1,Recommended,1698,1489,Veg
+Pizzeria Express,Jaipur,Mexican,3.2,Fast Food,546,1998,Veg
+Royal Dine,Ahmedabad,Italian,4.5,Salads,943,733,Veg
+Spice Delight,Pune,Korean,4.5,Beverages,1320,913,Non-veg
+Sushi World,Pune,Korean,3.9,Main Course,1908,1475,Non-veg
+Tandoori Flames,Bangalore,Italian,4.1,Beverages,100,1944,Veg
+Tasty Tales,Chandigarh,Korean,5,Fast Food,217,1922,Non-veg
+Pizzeria Express,Bangalore,Chinese,3.2,Fast Food,943,467,Veg
+Urban Bites,Ahmedabad,French,4,Beverages,1679,372,Veg
+Curry Kingdom,Delhi,French,4.8,Soups,723,1169,Veg
+Tandoori Flames,Kolkata,Indian,3.7,Desserts,1489,691,Veg
+Gourmet Paradise,Ahmedabad,Chinese,3.7,Beverages,1641,683,Non-veg
+Street Treats,Hyderabad,Japanese,4.6,Appetizers,1225,190,Non-veg
+Tasty Tales,Mumbai,French,4.5,Soups,273,928,Veg
+Tandoori Flames,Chandigarh,Japanese,3.9,Fast Food,1398,950,Veg
+Spice Delight,Chandigarh,Chinese,4.3,Soups,1282,1707,Non-veg
+Gourmet Paradise,Chennai,Mexican,3.8,Soups,664,593,Non-veg
+Urban Bites,Ahmedabad,Thai,3.3,Desserts,1247,177,Veg
+Street Treats,Kolkata,Japanese,4.9,Soups,1424,433,Non-veg
+Pizzeria Express,Pune,French,4.4,Soups,186,1619,Veg
+Pizzeria Express,Pune,Thai,3.4,Desserts,1562,1046,Non-veg
+Pizzeria Express,Jaipur,Japanese,4.2,Main Course,304,1625,Non-veg
+Street Treats,Mumbai,Chinese,3.5,Recommended,1810,1623,Veg
+Food Haven,Pune,Indian,4.2,Main Course,376,346,Non-veg
+Spice Delight,Ahmedabad,Mediterranean,3.2,Desserts,1613,637,Veg
+Tandoori Flames,Chandigarh,Thai,3.9,Beverages,168,1787,Non-veg
+Pizzeria Express,Chandigarh,French,4.6,Main Course,890,481,Veg
+Royal Dine,Kolkata,Chinese,3.5,Appetizers,1311,651,Veg
+Sizzling Spoons,Chennai,Korean,3,Soups,971,1377,Veg
+Street Treats,Jaipur,American,4.1,Soups,1921,1967,Non-veg
+Tasty Tales,Pune,Italian,4.6,Appetizers,1298,993,Veg
+Sizzling Spoons,Bangalore,French,3.2,Appetizers,1168,1727,Non-veg
+Sizzling Spoons,Kolkata,Korean,4.1,Appetizers,260,174,Veg
+Tandoori Flames,Hyderabad,American,3.7,Recommended,844,1664,Veg
+Sizzling Spoons,Jaipur,American,3.7,Soups,1518,1209,Non-veg
+Pizzeria Express,Jaipur,French,3.2,Recommended,867,631,Veg
+Pizzeria Express,Bangalore,Italian,3.9,Salads,1775,181,Veg
+Gourmet Paradise,Mumbai,Italian,4.5,Salads,1580,1970,Veg
+Gourmet Paradise,Hyderabad,Italian,4.5,Soups,1830,1682,Non-veg
+Sushi World,Hyderabad,Korean,4.6,Beverages,755,491,Veg
+Gourmet Paradise,Chandigarh,Indian,3.1,Recommended,637,365,Non-veg
+Tandoori Flames,Hyderabad,Italian,4.9,Appetizers,1661,1024,Non-veg
+Street Treats,Chennai,Japanese,3.6,Recommended,957,1144,Non-veg
+Urban Bites,Kolkata,American,4.3,Beverages,1548,252,Veg
+Urban Bites,Chennai,Japanese,4.2,Desserts,1453,819,Non-veg
+Street Treats,Pune,French,3.4,Desserts,987,820,Non-veg
+Street Treats,Bangalore,Indian,4.1,Salads,496,697,Non-veg
+Royal Dine,Jaipur,Chinese,3.7,Recommended,1383,1575,Veg
+Curry Kingdom,Pune,French,3.5,Desserts,746,809,Non-veg
+Food Haven,Chennai,Italian,4.4,Appetizers,1474,271,Veg
+Tandoori Flames,Delhi,American,4,Fast Food,1936,715,Veg
+Street Treats,Mumbai,Mexican,3.3,Appetizers,1232,766,Non-veg
+Gourmet Paradise,Pune,Japanese,4.5,Fast Food,1993,1708,Non-veg
+Tandoori Flames,Pune,Mediterranean,4.1,Soups,1975,260,Veg
+Street Treats,Jaipur,Japanese,3.1,Appetizers,1739,1320,Veg
+Pizzeria Express,Hyderabad,Indian,4,Recommended,336,1185,Non-veg
+Sushi World,Jaipur,Mexican,4.9,Appetizers,1333,823,Veg
+Food Haven,Chennai,American,3.5,Fast Food,1183,482,Veg
+Sushi World,Mumbai,Mexican,3.3,Desserts,799,688,Veg
+Tandoori Flames,Bangalore,Thai,3.2,Recommended,1234,599,Veg
+Street Treats,Kolkata,Chinese,4.4,Recommended,371,950,Non-veg
+Food Haven,Bangalore,Japanese,3.7,Soups,560,1801,Non-veg
+Urban Bites,Jaipur,Korean,3.6,Beverages,610,966,Non-veg
+Sushi World,Mumbai,Japanese,4.7,Fast Food,1683,801,Veg
+Street Treats,Ahmedabad,French,4.5,Desserts,1598,809,Non-veg
+Gourmet Paradise,Chandigarh,Korean,3,Soups,341,371,Non-veg
+Urban Bites,Delhi,Indian,4.3,Main Course,1363,321,Veg
+Urban Bites,Delhi,Indian,4.7,Recommended,255,501,Veg
+Gourmet Paradise,Chennai,Mexican,3.8,Soups,1557,305,Veg
+Pizzeria Express,Jaipur,Mexican,4.1,Main Course,1916,711,Veg
+Tasty Tales,Chennai,Japanese,4.9,Beverages,1555,253,Veg
+Street Treats,Mumbai,Mediterranean,4.7,Beverages,156,170,Veg
+Sushi World,Ahmedabad,Indian,3.4,Beverages,526,880,Non-veg
+Tandoori Flames,Chandigarh,Mexican,3.9,Beverages,450,1991,Non-veg
+Pizzeria Express,Pune,Mexican,4.4,Salads,1546,967,Non-veg
+Spice Delight,Pune,Chinese,3.4,Salads,145,933,Veg
+Pizzeria Express,Mumbai,Korean,3.7,Main Course,1870,1023,Veg
+Curry Kingdom,Bangalore,Thai,4.2,Recommended,700,689,Veg
+Gourmet Paradise,Pune,Mexican,3.3,Soups,1221,1198,Veg
+Sushi World,Kolkata,American,4,Main Course,987,1745,Non-veg
+Pizzeria Express,Hyderabad,Mediterranean,3.2,Main Course,1534,967,Non-veg
+Sushi World,Chandigarh,Mexican,3.2,Main Course,1894,1034,Non-veg
+Sizzling Spoons,Chandigarh,Mediterranean,4.5,Recommended,755,1960,Veg
+Spice Delight,Delhi,American,3.4,Desserts,821,1465,Veg
+Urban Bites,Hyderabad,French,4.4,Desserts,1864,447,Veg
+Food Haven,Chandigarh,Chinese,3.4,Recommended,867,572,Non-veg
+Tasty Tales,Pune,Mediterranean,4.8,Beverages,1977,195,Non-veg
+Tasty Tales,Mumbai,Thai,4.3,Appetizers,837,1351,Veg
+Sizzling Spoons,Kolkata,Thai,3.7,Salads,1966,1386,Veg
+Food Haven,Kolkata,Indian,4.7,Soups,651,1801,Non-veg
+Tasty Tales,Chandigarh,French,4.7,Appetizers,554,349,Non-veg
+Tasty Tales,Hyderabad,Italian,3.1,Appetizers,439,1596,Veg
+Urban Bites,Mumbai,Japanese,4.5,Main Course,1663,1649,Veg
+Sushi World,Kolkata,American,3.9,Main Course,1686,1252,Veg
+Street Treats,Ahmedabad,Italian,3.4,Main Course,539,1292,Non-veg
+Curry Kingdom,Delhi,Chinese,3.9,Appetizers,589,1110,Non-veg
+Street Treats,Hyderabad,Korean,4.6,Recommended,314,1754,Veg
+Food Haven,Bangalore,Chinese,3.5,Main Course,346,1230,Veg
+Food Haven,Jaipur,Mexican,4.7,Salads,1909,208,Non-veg
+Pizzeria Express,Jaipur,Korean,4,Appetizers,706,223,Non-veg
+Curry Kingdom,Mumbai,Korean,3.8,Appetizers,495,1009,Non-veg
+Urban Bites,Mumbai,Italian,3.6,Appetizers,1766,198,Non-veg
+Spice Delight,Delhi,French,3.7,Main Course,1932,1393,Non-veg
+Spice Delight,Chennai,Japanese,4.2,Soups,1179,853,Non-veg
+Tasty Tales,Hyderabad,Mediterranean,3.5,Recommended,1293,1793,Non-veg
+Curry Kingdom,Chandigarh,Thai,3.1,Soups,1051,503,Non-veg
+Street Treats,Chennai,Korean,4.7,Recommended,1849,1064,Non-veg
+Gourmet Paradise,Chandigarh,Chinese,3.4,Salads,1342,699,Veg
+Royal Dine,Hyderabad,Korean,4,Desserts,499,984,Non-veg
+Urban Bites,Delhi,American,3.6,Recommended,1176,1376,Non-veg
+Food Haven,Pune,Italian,4.3,Beverages,1609,1780,Veg
+Gourmet Paradise,Ahmedabad,Mediterranean,4.2,Beverages,597,1503,Non-veg
+Curry Kingdom,Chandigarh,Thai,4.8,Beverages,331,718,Non-veg
+Food Haven,Pune,American,3.2,Fast Food,1158,1762,Non-veg
+Sushi World,Chandigarh,Japanese,3.4,Desserts,598,1077,Non-veg
+Sizzling Spoons,Chennai,French,4.2,Appetizers,670,822,Veg
+Curry Kingdom,Chennai,Japanese,4,Fast Food,1999,634,Non-veg
+Sizzling Spoons,Jaipur,Italian,3.2,Appetizers,926,890,Non-veg
+Urban Bites,Kolkata,Chinese,4.2,Recommended,1199,869,Veg
+Tandoori Flames,Chennai,Thai,4,Fast Food,394,1574,Non-veg
+Food Haven,Ahmedabad,Mediterranean,4.1,Appetizers,1569,1913,Non-veg
+Street Treats,Chandigarh,Mediterranean,4.6,Soups,802,469,Veg
+Curry Kingdom,Chennai,Italian,4.1,Beverages,1976,1295,Veg
+Sushi World,Chennai,Thai,4.1,Salads,1656,1051,Non-veg
+Tandoori Flames,Chandigarh,Mediterranean,3.5,Fast Food,1738,1340,Non-veg
+Street Treats,Chandigarh,Korean,4.7,Main Course,1643,574,Veg
+Sushi World,Chandigarh,Mediterranean,3.6,Fast Food,1941,1452,Non-veg
+Spice Delight,Hyderabad,French,4.6,Desserts,1356,245,Veg
+Sizzling Spoons,Delhi,Chinese,4.9,Salads,1948,581,Non-veg
+Sizzling Spoons,Bangalore,Indian,3.9,Fast Food,1585,1510,Non-veg
+Gourmet Paradise,Delhi,French,4.5,Salads,1926,521,Non-veg
+Curry Kingdom,Ahmedabad,Japanese,4.5,Fast Food,1859,433,Non-veg
+Gourmet Paradise,Bangalore,French,3.2,Main Course,419,693,Non-veg
+Tandoori Flames,Chennai,Japanese,4,Soups,1107,1490,Veg
+Royal Dine,Delhi,Mediterranean,3.1,Beverages,599,1762,Veg
+Curry Kingdom,Chandigarh,Indian,3.3,Appetizers,735,413,Veg
+Food Haven,Mumbai,Chinese,4.9,Soups,899,610,Veg
+Gourmet Paradise,Pune,Italian,5,Fast Food,707,662,Non-veg
+Gourmet Paradise,Ahmedabad,Mediterranean,4.8,Salads,1433,1830,Veg
+Street Treats,Jaipur,Chinese,4.1,Beverages,530,1282,Non-veg
+Curry Kingdom,Chandigarh,Korean,3.3,Beverages,692,749,Non-veg
+Curry Kingdom,Jaipur,Mexican,3.5,Salads,446,1800,Non-veg
+Royal Dine,Delhi,Thai,3.2,Soups,1266,670,Non-veg
+Curry Kingdom,Jaipur,Indian,3.7,Desserts,935,1243,Non-veg
+Sizzling Spoons,Ahmedabad,Thai,4.6,Fast Food,1261,1088,Non-veg
+Tandoori Flames,Mumbai,Thai,3.4,Desserts,1912,1741,Non-veg
+Sizzling Spoons,Delhi,Indian,4.4,Appetizers,279,716,Veg
+Gourmet Paradise,Ahmedabad,American,4.9,Recommended,1826,799,Non-veg
+Tasty Tales,Ahmedabad,French,4.6,Soups,1973,676,Veg
+Tandoori Flames,Bangalore,Korean,3.9,Appetizers,1851,238,Veg
+Tandoori Flames,Kolkata,Chinese,3.5,Appetizers,701,1432,Veg
+Food Haven,Hyderabad,French,4.6,Desserts,1505,1242,Veg
+Street Treats,Delhi,French,4.3,Main Course,1672,1577,Non-veg
+Curry Kingdom,Chandigarh,American,3.3,Salads,1113,900,Veg
+Tasty Tales,Kolkata,French,3.7,Desserts,796,746,Veg
+Urban Bites,Kolkata,Mexican,3.1,Main Course,1641,1350,Non-veg
+Pizzeria Express,Jaipur,French,3,Beverages,1286,276,Veg
+Gourmet Paradise,Jaipur,Mexican,3.8,Main Course,1019,542,Veg
+Sizzling Spoons,Kolkata,Mediterranean,4.9,Beverages,1898,1953,Non-veg
+Curry Kingdom,Hyderabad,Mexican,3.1,Desserts,189,1311,Non-veg
+Spice Delight,Pune,Mediterranean,3.3,Recommended,796,171,Non-veg
+Spice Delight,Pune,French,3.2,Salads,998,738,Non-veg
+Sushi World,Mumbai,Thai,3.9,Salads,1407,1494,Non-veg
+Food Haven,Chennai,French,4.1,Fast Food,370,397,Non-veg
+Pizzeria Express,Ahmedabad,Indian,4.6,Appetizers,1857,801,Veg
+Sizzling Spoons,Ahmedabad,Thai,4.6,Fast Food,1667,1740,Non-veg
+Spice Delight,Jaipur,Mexican,4.8,Desserts,1270,757,Non-veg
+Pizzeria Express,Jaipur,American,3.8,Soups,1115,1021,Veg
+Sushi World,Pune,American,3.1,Main Course,643,1587,Veg
+Spice Delight,Mumbai,Italian,4.3,Soups,833,711,Veg
+Curry Kingdom,Ahmedabad,French,4.7,Desserts,634,288,Non-veg
+Tandoori Flames,Delhi,Mexican,4.3,Main Course,837,487,Non-veg
+Tasty Tales,Mumbai,Mediterranean,3.5,Appetizers,805,655,Veg
+Sizzling Spoons,Mumbai,Italian,4.9,Recommended,755,1717,Veg
+Spice Delight,Jaipur,Indian,3.3,Fast Food,349,1374,Non-veg
+Tandoori Flames,Ahmedabad,Thai,4.2,Main Course,1343,758,Veg
+Gourmet Paradise,Delhi,Mediterranean,4.8,Beverages,1681,810,Non-veg
+Pizzeria Express,Mumbai,Italian,4.4,Desserts,1087,1724,Veg
+Tasty Tales,Mumbai,Korean,4,Beverages,1969,1273,Non-veg
+Sushi World,Chandigarh,American,3.9,Desserts,1263,1566,Non-veg
+Tasty Tales,Kolkata,American,3.7,Recommended,887,748,Non-veg
+Pizzeria Express,Mumbai,Thai,3.3,Main Course,1296,1193,Veg
+Gourmet Paradise,Mumbai,Korean,4.2,Main Course,583,371,Veg
+Curry Kingdom,Mumbai,Japanese,4.4,Recommended,259,360,Non-veg
+Sizzling Spoons,Pune,Thai,3.7,Salads,986,761,Non-veg
+Gourmet Paradise,Ahmedabad,Mexican,3.5,Fast Food,173,1236,Non-veg
+Street Treats,Chennai,Mexican,3.4,Soups,1391,651,Veg
+Pizzeria Express,Bangalore,Mediterranean,3.8,Appetizers,1472,935,Veg
+Tasty Tales,Chandigarh,Thai,3,Salads,223,648,Veg
+Food Haven,Kolkata,Mediterranean,4.7,Appetizers,655,212,Veg
+Royal Dine,Pune,Mediterranean,4.6,Desserts,1144,302,Non-veg
+Urban Bites,Bangalore,Indian,4.9,Beverages,1545,1620,Non-veg
+Spice Delight,Mumbai,Japanese,3.8,Soups,1606,372,Veg
+Food Haven,Pune,French,4.1,Desserts,1107,1885,Veg
+Food Haven,Chandigarh,Italian,3.2,Recommended,1462,1171,Non-veg
+Curry Kingdom,Mumbai,Chinese,3.7,Main Course,1724,1563,Non-veg
+Street Treats,Delhi,American,4.1,Desserts,1071,427,Veg
+Tasty Tales,Chandigarh,Chinese,3.9,Beverages,186,1996,Non-veg
+Curry Kingdom,Mumbai,Japanese,4.5,Salads,1231,1413,Veg
+Tandoori Flames,Ahmedabad,French,4.4,Salads,130,1492,Veg
+Food Haven,Chandigarh,French,3.1,Salads,1176,389,Veg
+Urban Bites,Kolkata,Thai,3.7,Fast Food,811,567,Veg
+Curry Kingdom,Kolkata,French,3.5,Main Course,1060,712,Veg
+Sushi World,Bangalore,Indian,4,Main Course,568,414,Non-veg
+Curry Kingdom,Kolkata,Italian,3,Salads,1174,622,Veg
+Sushi World,Hyderabad,Thai,3.3,Fast Food,1437,1119,Non-veg
+Street Treats,Mumbai,Mexican,3.1,Fast Food,766,763,Veg
+Sushi World,Hyderabad,American,3.6,Appetizers,1518,266,Non-veg
+Spice Delight,Kolkata,Italian,3.6,Beverages,1539,1521,Non-veg
+Pizzeria Express,Pune,Japanese,4.2,Desserts,124,508,Non-veg
+Royal Dine,Pune,Chinese,3.3,Desserts,1579,913,Non-veg
+Tasty Tales,Chandigarh,Italian,4.1,Soups,1012,1306,Veg
+Royal Dine,Ahmedabad,Thai,3.3,Desserts,742,584,Non-veg
+Spice Delight,Mumbai,Thai,3.4,Main Course,1408,855,Non-veg
+Sushi World,Ahmedabad,Thai,4.4,Main Course,1822,1963,Non-veg
+Spice Delight,Delhi,Indian,3.5,Beverages,810,1514,Non-veg
+Sizzling Spoons,Jaipur,Italian,3.4,Desserts,1764,456,Non-veg
+Pizzeria Express,Delhi,Korean,3.3,Desserts,885,1302,Non-veg
+Urban Bites,Pune,Mediterranean,3.4,Fast Food,1324,1946,Veg
+Sushi World,Chennai,French,3.9,Salads,427,1672,Veg
+Gourmet Paradise,Pune,Italian,4.5,Desserts,1507,1963,Non-veg
+Food Haven,Delhi,Korean,4.6,Salads,143,848,Non-veg
+Curry Kingdom,Ahmedabad,Italian,4.9,Desserts,832,945,Veg
+Food Haven,Pune,Japanese,3.2,Desserts,260,1314,Veg
+Tandoori Flames,Jaipur,Thai,3.8,Recommended,461,1714,Veg
+Curry Kingdom,Chandigarh,Mediterranean,4.1,Recommended,465,1953,Non-veg
+Tasty Tales,Delhi,Thai,4.6,Soups,1530,1970,Non-veg
+Street Treats,Chandigarh,Indian,4.6,Fast Food,1371,635,Veg
+Pizzeria Express,Mumbai,French,4.3,Beverages,1315,813,Veg
+Street Treats,Hyderabad,Thai,4.1,Appetizers,1177,202,Veg
+Food Haven,Chandigarh,Italian,3.2,Soups,1400,241,Non-veg
+Urban Bites,Kolkata,American,3.6,Desserts,1964,1425,Non-veg
+Pizzeria Express,Chennai,French,4,Beverages,1175,479,Veg
+Curry Kingdom,Hyderabad,Indian,3.1,Appetizers,1387,557,Veg
+Tasty Tales,Jaipur,Italian,3.4,Soups,1149,1722,Non-veg
+Curry Kingdom,Bangalore,Indian,3.5,Fast Food,1529,1992,Non-veg
+Urban Bites,Chandigarh,Mediterranean,4.2,Main Course,1928,841,Veg
+Spice Delight,Delhi,Japanese,4,Salads,802,1004,Veg
+Tandoori Flames,Bangalore,Chinese,4.7,Salads,185,338,Non-veg
+Royal Dine,Bangalore,Indian,4,Salads,1599,599,Non-veg
+Curry Kingdom,Delhi,Mexican,4.3,Beverages,602,1110,Non-veg
+Pizzeria Express,Jaipur,American,3.8,Salads,499,1175,Non-veg
+Street Treats,Kolkata,Chinese,3.7,Fast Food,1157,1482,Veg
+Gourmet Paradise,Bangalore,Chinese,4.2,Recommended,1864,926,Non-veg
+Royal Dine,Jaipur,Mediterranean,4.6,Main Course,1243,1561,Veg
+Gourmet Paradise,Kolkata,Mexican,3.8,Desserts,453,405,Veg
+Tandoori Flames,Kolkata,French,3.6,Desserts,1419,185,Non-veg
+Gourmet Paradise,Bangalore,Mediterranean,3.2,Desserts,704,1320,Non-veg
+Pizzeria Express,Jaipur,French,3.2,Soups,489,592,Veg
+Food Haven,Jaipur,Thai,3.5,Salads,310,899,Non-veg
+Tasty Tales,Jaipur,Korean,4.8,Beverages,864,1585,Non-veg
+Sizzling Spoons,Jaipur,Mediterranean,3.7,Soups,872,1460,Non-veg
+Pizzeria Express,Chennai,Italian,4.5,Salads,1519,1197,Non-veg
+Sizzling Spoons,Hyderabad,American,3.4,Beverages,855,778,Non-veg
+Royal Dine,Ahmedabad,French,4.4,Desserts,904,266,Non-veg
+Gourmet Paradise,Ahmedabad,Italian,3.5,Appetizers,1658,1246,Veg
+Tasty Tales,Delhi,Mexican,3.3,Beverages,724,456,Non-veg
+Tasty Tales,Bangalore,Japanese,3.5,Appetizers,630,872,Non-veg
+Royal Dine,Bangalore,Thai,4.9,Soups,510,942,Veg
+Gourmet Paradise,Pune,Thai,3.9,Soups,1702,1960,Veg
+Spice Delight,Chandigarh,Mediterranean,3.8,Beverages,279,1649,Veg
+Gourmet Paradise,Mumbai,Korean,3.7,Appetizers,1110,1932,Non-veg
+Pizzeria Express,Kolkata,Chinese,4.3,Salads,439,843,Veg
+Urban Bites,Bangalore,Japanese,5,Soups,1148,322,Non-veg
+Food Haven,Ahmedabad,Indian,3.9,Salads,268,1145,Non-veg
+Food Haven,Hyderabad,Mexican,3.5,Fast Food,764,1618,Non-veg
+Tasty Tales,Hyderabad,Thai,4.9,Fast Food,754,1479,Non-veg
+Pizzeria Express,Ahmedabad,French,4.6,Appetizers,1543,1261,Veg
+Pizzeria Express,Delhi,Chinese,4.4,Appetizers,1811,557,Veg
+Food Haven,Delhi,Mexican,5,Appetizers,203,1337,Veg
+Curry Kingdom,Kolkata,Indian,3.8,Main Course,806,347,Veg
+Sizzling Spoons,Pune,Chinese,4.3,Desserts,1208,1775,Veg
+Sizzling Spoons,Delhi,Mexican,4.7,Recommended,1973,720,Veg
+Pizzeria Express,Pune,Italian,4.7,Soups,1113,1733,Veg
+Tasty Tales,Mumbai,Indian,4,Appetizers,1284,216,Veg
+Royal Dine,Bangalore,Mediterranean,3.8,Soups,621,1256,Non-veg
+Gourmet Paradise,Delhi,Mexican,4.6,Soups,510,947,Non-veg
+Sushi World,Chennai,Indian,4.2,Main Course,359,1211,Non-veg
+Sushi World,Mumbai,Thai,3.4,Salads,1163,1558,Non-veg
+Curry Kingdom,Mumbai,French,4.9,Soups,822,704,Veg
+Pizzeria Express,Ahmedabad,American,3.4,Appetizers,1533,811,Veg
+Food Haven,Kolkata,Japanese,3,Desserts,142,1216,Veg
+Urban Bites,Jaipur,Mexican,4.5,Recommended,1601,367,Non-veg
+Pizzeria Express,Bangalore,French,3,Beverages,1400,770,Veg
+Tandoori Flames,Hyderabad,Japanese,3.7,Main Course,1382,335,Non-veg
+Spice Delight,Ahmedabad,Mexican,3.6,Recommended,1165,674,Non-veg
+Food Haven,Kolkata,Japanese,4.9,Soups,542,508,Non-veg
+Royal Dine,Pune,Mexican,3.5,Desserts,1113,371,Non-veg
+Tasty Tales,Chennai,French,4.4,Soups,283,565,Non-veg
+Gourmet Paradise,Jaipur,American,4.2,Soups,1756,228,Non-veg
+Royal Dine,Bangalore,Mediterranean,3.5,Appetizers,548,1304,Non-veg
+Spice Delight,Chandigarh,Italian,4.4,Appetizers,590,945,Veg
+Tandoori Flames,Delhi,Mexican,3.5,Soups,1650,227,Veg
+Royal Dine,Delhi,Thai,3.1,Soups,525,1621,Veg
+Royal Dine,Ahmedabad,French,4.2,Fast Food,468,606,Non-veg
+Royal Dine,Pune,Mediterranean,4,Fast Food,883,245,Non-veg
+Urban Bites,Bangalore,Italian,5,Salads,1134,1895,Non-veg
+Food Haven,Delhi,Chinese,4.3,Fast Food,835,1676,Non-veg
+Tasty Tales,Jaipur,Indian,3.9,Desserts,756,300,Veg
+Pizzeria Express,Jaipur,Indian,5,Main Course,1094,583,Veg
+Gourmet Paradise,Kolkata,Chinese,3.9,Beverages,1565,1149,Veg
+Tandoori Flames,Delhi,French,3.9,Desserts,376,626,Veg
+Tasty Tales,Mumbai,Mexican,3.8,Fast Food,1670,520,Veg
+Gourmet Paradise,Mumbai,American,3.2,Salads,1006,1606,Non-veg
+Urban Bites,Pune,Mexican,3.1,Recommended,522,823,Non-veg
+Royal Dine,Kolkata,Japanese,4.3,Main Course,401,1231,Veg
+Tasty Tales,Hyderabad,Chinese,3.2,Main Course,608,1005,Veg
+Urban Bites,Hyderabad,Korean,4.5,Beverages,1962,1921,Non-veg
+Urban Bites,Pune,Korean,3.6,Appetizers,873,1931,Veg
+Curry Kingdom,Ahmedabad,Mediterranean,4.8,Desserts,1688,1432,Non-veg
+Urban Bites,Mumbai,Chinese,3.1,Beverages,1510,753,Veg
+Curry Kingdom,Delhi,French,3.6,Beverages,1257,1919,Non-veg
