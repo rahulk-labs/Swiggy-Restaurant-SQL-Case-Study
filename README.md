@@ -6,6 +6,7 @@
 Analyzed Swiggy restaurant dataset using SQL to uncover insights on ratings, pricing, cuisine distribution, and restaurant trends.
 
 ## 📊 Dataset
+- Sample dataset used for analysis
 - Swiggy restaurant dataset containing restaurant names, cities, ratings, cost per person, and cuisines
 
 ## 🛠 Tools Used
